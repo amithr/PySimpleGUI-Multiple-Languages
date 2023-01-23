@@ -4,7 +4,7 @@ lang_dict_en = {
  'ok': 'OK',
  'quit': 'Quit',
  'thanks': '! Thanks for trying PySimpleGUI',
- 'title': 'Multi-lang Example'
+ 'title': 'Internationalization Example'
 }
 
 lang_dict_zh_cn = {
@@ -23,4 +23,13 @@ lang_dict_fr = {
  'quit': 'quitter',
  'thanks': "! Merci d'avoir essayé PySimpleGUI",
  'title': 'Exemple Multilingue'
+}
+
+lang_dict_es = {
+    'ask_name': 'Cual es tu nombre?',
+    'hello':'Hola!',
+    'ok': 'Bien',
+    'quit': 'Sale',
+    'thanks':' Gracias por probar PySimpleGUI!',
+    'title':"Ejemplo de internacionalización"
 }
